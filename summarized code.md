@@ -190,6 +190,8 @@ def plot_timeseries(axes, x, y, color, xlabel, ylabel):
 
 # Using a plotting function
 
+Defining functions allows us to reuse the same code without having to repeat all of it. Programmers sometimes say "Don't repeat yourself". 
+
 
 
 
