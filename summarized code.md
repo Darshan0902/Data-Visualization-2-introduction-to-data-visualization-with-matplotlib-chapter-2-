@@ -268,7 +268,7 @@ Use the plot_timeseries function to plot CO2 levels against time. Set xlabel to 
 
 Create ax2, as a twin of the first Axes.
 
-
+In ax2, plot temperature against time, setting the color ylabel to "Relative temp (Celsius)" and color to 'red'.
 
 
 
