@@ -250,6 +250,12 @@ plt.show()
 EXERCISE : 
 
 
+In this exercise, you will plot two time-series with different scales on the same Axes, and annotate the data from one of these series.
+
+The CO2/temperatures data is provided as a DataFrame called climate_change. You should also use the function that we have defined before, called plot_timeseries, which takes an Axes object (as the axes argument) plots a time-series (provided as x and y arguments), sets the labels for the x-axis and y-axis and sets the color for the data, and for the y tick/axis labels:
+
+plot_timeseries(axes, x, y, color, xlabel, ylabel) Then, you will annotate with text an important time-point in the data: on 2015-10-06, when the temperature first rose to above 1 degree over the average.
+
 
 
 
