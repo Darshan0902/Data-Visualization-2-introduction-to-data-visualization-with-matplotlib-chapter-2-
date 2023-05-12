@@ -266,6 +266,7 @@ INSTRUCTIONS :
 
 Use the plot_timeseries function to plot CO2 levels against time. Set xlabel to "Time (years)" ylabel to "CO2 levels" and color to 'blue'.
 
+Create ax2, as a twin of the first Axes.
 
 
 
