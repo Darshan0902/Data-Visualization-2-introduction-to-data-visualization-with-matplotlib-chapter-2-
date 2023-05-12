@@ -247,6 +247,10 @@ plt.show()
 
 <h2> Plotting time-series: </h2>
 
+EXERCISE : 
+
+
+
 
 
 
