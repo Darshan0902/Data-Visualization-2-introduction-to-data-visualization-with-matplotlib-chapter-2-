@@ -245,6 +245,8 @@ ax.annotate(">1 degree", xy=(pd.Timestamp("2015-10-6"), 1))
 plt.show()
 ```
 
+<h2> Plotting time-series: </h2>
+
 
 
 
