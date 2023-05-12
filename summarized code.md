@@ -270,6 +270,7 @@ Create ax2, as a twin of the first Axes.
 
 In ax2, plot temperature against time, setting the color ylabel to "Relative temp (Celsius)" and color to 'red'.
 
+Annotate the data using the ax2.annotate method. Place the text ">1 degree" in x=pd.Timestamp('2008-10-06'), y=-0.2 pointing with a gray thin arrow to x=pd.Timestamp('2015-10-06'), y = 1
 
 
 
